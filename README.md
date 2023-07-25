@@ -38,9 +38,9 @@ Technologies used in this application:
 
 ## Screenshots
 
-![Login](../bookSearchEngine/Assets/login.png)
+![Login](./Assets/login.png)
 
-![Search Engine](../bookSearchEngine/Assets/searchEngine.png)
+![Search Engine](./Assets/searchEngine.png)
 
 ## Links
 
